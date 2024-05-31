@@ -1,0 +1,50 @@
+
+*{
+
+    padding: 0%;
+
+}
+
+body{
+    background-color: rgba(137, 243, 243, 0.418);
+    text-decoration: none;
+}
+nav{
+    font-size: 30px;
+    word-spacing: 30px;
+    line-height: 100px;
+    text-align: center;
+    cursor: pointer;
+   
+}
+.top-navbar{
+    display: flex;
+    /* align-items: center; */
+    justify-content: center;
+}
+.logo{
+    color: rgb(241, 241, 250);
+    display: inline;
+    font-size: 40px;
+    background-color: rgb(182, 34, 120);
+    border-radius: 40px;
+    outline-offset: none;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.search{
+    width: 700px;
+    height: 45px;
+    border-width: 2px;
+    border-color:black;
+    border-style: groove;
+    border-radius: 7px;
+    font-size: 30px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+   
+
